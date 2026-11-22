@@ -8,11 +8,17 @@ MATLAB · Simulink · Rigid-Body Dynamics · Trim Optimization · Flight Stabili
 
 **[Complete technical report (PDF)](Report/Flight_Dynamics_and_Simulation_Di_Rosa_2023-2024.pdf)** · **[HARV MATLAB project](HARV_6DoF/)** · **[Speed-brake Simulink project](Speed_Brakes/)**
 
-<p align="center">
-  <img src="Images/harv_spiral_trajectory.png" alt="F/A-18 HARV spiral-like trajectory obtained in the 6-DoF study" width="49%" />
-  <img src="Images/speed_brakes_velocity_comparison.png" alt="Velocity comparison from the speed-brake investigation" width="49%" />
-</p>
-<p align="center"><sub>Selected results from the project report: F/A-18 HARV 6-DoF trajectory (Chapter 6) and aircraft velocity with/without speed brakes (Chapter 2).</sub></p>
+<table align="center">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="Images/harv_spiral_trajectory.png" alt="F/A-18 HARV spiral-like trajectory" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="Images/harv_approach_maneuver.png" alt="Aircraft approach trajectory and attitude" width="100%" />
+    </td>
+  </tr>
+</table>
+<p align="center"><sub>Selected flight trajectories from the project report: F/A-18 HARV constrained-trim study (Chapter 6) and approach manoeuvre (Chapter 3).</sub></p>
 
 ## Project overview
 
