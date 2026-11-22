@@ -1,0 +1,31 @@
+# Operating systems / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.asv
+*~
+
+# MATLAB / Simulink generated data, caches and autosaves
+slprj/
+*.slxc
+*.autosave
+*.mex*
+*.mexw64
+*.mexa64
+codegen/
+
+# Image previews & runtime outputs (keep curated Images/ tracked)
+outputs/
+*.log
+
+# Keep original aircraft meshes tracked; ignore only generated trim output.
+Trim.mat
+*.slx.r*
+
+# Local assistant configuration and working notes
+.codex/
+.agents/
+AGENTS.md
+CODEX_HANDOFF.md
+packaging.log
