@@ -19,6 +19,7 @@ MATLAB · Simulink · Rigid-Body Dynamics · Trim Optimization · Flight Stabili
   </tr>
 </table>
 <p align="center"><sub>F/A-18 HARV constrained-trim trajectory and controlled-flight trajectory with speed brakes.</sub></p>
+
 ## Project overview
 
 This repository documents my *Flight Dynamics and Simulation* project at the **University of Naples Federico II**, undertaken as part of the Aerospace Engineering programme. The accompanying [148-page report](Report/Flight_Dynamics_and_Simulation_Di_Rosa_2023-2024.pdf) combines theoretical derivations with MATLAB and Simulink exercises to investigate aircraft motion, equilibrium, control response and stability.
